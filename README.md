@@ -16,7 +16,7 @@ These are the changes that were made from [Bradley Ullery](https://github.com/br
 * Updated Web.config to work with newer Framework
 * Completely reworked FindContact to use REST
 
-## Deployment
+## Production
 
 This project is for research/resource purposes ONLY. It will not be supported for production environments.
 
